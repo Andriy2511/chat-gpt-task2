@@ -1,0 +1,9 @@
+Task 1
+Implement a RESTful API for a simple online bookstore using Spring and Hibernate.
+The API should allow users to perform CRUD operations on books, authors, and genres.
+Books should have a title, author, genre, price, and quantity available.
+Users should be able to search for books by title, author, or genre.
+Use Hibernate to persist data to a relational database.
+
+ChatGPT conversation:
+https://chatgpt.com/share/672fbf71-8ed4-8000-bac5-009de1623493
